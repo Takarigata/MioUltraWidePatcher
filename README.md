@@ -1,5 +1,5 @@
 <img src="https://media.discordapp.net/attachments/1271751415152381972/1460586636856262812/13393706_33179-ezgif.com-crop.gif?ex=696774ce&is=6966234e&hm=4cd6efe21401b81b110df236fe27f0b7aeb744535960abac5004c24e079e3585&=" width="800" alt="Ultra-Wide Patcher GIF" />
-uwu
+
 # 💖 Ultra-Wide Game Patcher 💖
 
 (｡♥‿♥｡) ✨ 
