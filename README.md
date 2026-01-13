@@ -17,17 +17,29 @@
       @@@@@@@           @@@@@@@      @@@@@@@            @@@@@@@@@@@ @@ @          
                                                             @      @@@@@@@        
                                                                         @@  
-# Ultra-Wide Game Patcher
+uwu
+# 💖 Ultra-Wide Game Patcher 💖
 
-This is a simple game patcher tool designed to make a game compatible with **ultra-wide resolutions**.
+(｡♥‿♥｡) ✨ 
 
-The tool modifies specific values to enable proper support for wider aspect ratios that are not supported by default.
+This is a simple game patcher tool designed to make a game compatible with ultra-wide resolutions. ✨
 
-## Supported Resolutions
+This tool patches specific values to enable support for aspect ratios not supported by default.
 
-The following ultra-wide resolutions are supported:
+## 🖥️ Supported Resolutions 🖥️
 
-- **21:9 (2560x1080)** → `26 B4 17 40`
-- **21:9 (3440x1440)** → `8E E3 18 40`
-- **21:9 (3840x1600)** → `9A 99 19 40`
-- **32:9** → `39 8E 63 40`
+- 21:9 (2560x1080) → 26 B4 17 40
+- 21:9 (3440x1440) → 8E E3 18 40
+- 21:9 (3840x1600) → 9A 99 19 40
+- 32:9 → 39 8E 63 40
+
+## ⚠️ Notes ⚠️
+
+- Use at your own risk bestie (｡•́︿•̀｡)
+- ALWAYS back up your game files 💾
+- If it breaks I was never here ✨
+
+## 💕 Extra 💕
+
+Not glover love this tool 💗
+(づ￣ ³￣)づ 💖 uwu
