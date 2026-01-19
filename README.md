@@ -4,22 +4,19 @@
 
 (｡♥‿♥｡) ✨ 
 
-This is a simple game patcher tool designed to make a game compatible with ultra-wide resolutions. ✨
+This is a simple game patch to make MIO compatible with ultra-wide resolutions. ✨
 
 This tool patches specific values to enable support for aspect ratios not supported by default.
 
-## 🖥️ Supported Resolutions 🖥️
+## ⚙️ Installation	(´｡• ω •｡`) ✨ 
+- Extract ALL files from the ZIP
+- Place them in the game’s root directory
+- Must be next to `mio.exe`
 
-- 21:9 (2560x1080) → 26 B4 17 40
-- 21:9 (3440x1440) → 8E E3 18 40
-- 21:9 (3840x1600) → 9A 99 19 40
-- 32:9 → 39 8E 63 40
-
-## ⚠️ Notes ⚠️
-
-- Use at your own risk bestie (｡•́︿•̀｡)
-- ALWAYS back up your game files 💾
-- If it breaks I was never here ✨
+## 📝 Configuration ＼_ﾍ(ω｀●) 💖
+- New `ultra_wide_patch.ini`
+- Set `aspect_ratio=auto` to use monitor resolution
+- Or force ratios like `21/9`, `32/9`, etc.
 
 ## 💕 Extra 💕
 
