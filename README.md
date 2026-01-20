@@ -9,8 +9,7 @@ This is a simple game patch to make MIO compatible with ultra-wide resolutions. 
 This tool patches specific values to enable support for aspect ratios not supported by default.
 
 ## ⚙️ Installation	(´｡• ω •｡`) ✨ 
-- Extract ALL files from the ZIP
-- Place them in the game’s root directory
+- Extract ALL files from the ZIP in [latest release](https://github.com/Takarigata/MioUltraWidePatcher/releases/latest)
 - Must be next to `mio.exe`
 
 ## 📝 Configuration ＼_ﾍ(ω｀●) 💖
